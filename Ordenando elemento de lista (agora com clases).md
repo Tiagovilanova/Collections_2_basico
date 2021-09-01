@@ -6,7 +6,7 @@
 
 ## Novidade
 
-### Uso da Colelction unmodifiableList 
+### Uso da Collection unmodifiableList 
 
 # Software
 
