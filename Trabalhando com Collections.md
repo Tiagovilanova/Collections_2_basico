@@ -2,7 +2,9 @@
 
 #### Olá pessoal, vamos conhecer alguns princípios básicos das Collections! 
 
-#### Assim, vamos aprender alguns comandos como a ação de elemtos, remoção, obtenção e ordem de elementos de uma lista;
+#### Assim, trabalhar com classes, ordenando listas de uma classe e utilizando uma collection unmodifiableList;
+
+
 
 
 
