@@ -6,7 +6,7 @@
 
 ## Novidade
 
-### Uso da Collection unmodifiableList 
+### Uso da Collection unmodifiableList . Assim, é importante considerar que essa Collection não permite o uso de add, remove e nem alterar a sequência da lista.
 
 # Software
 
